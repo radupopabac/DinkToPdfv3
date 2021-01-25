@@ -1,4 +1,5 @@
-# DinkToPdf
+# DinkToPdfv2
+This library is based on https://github.com/rdvojmoc/DinkToPdf but since it was not updated  to newer .net versions i took the a branch and publish it. I have not written  any of this is just a package. Please feel free to contribute and help to keep it up to the newest version of .net core. Thank you
 .NET Core P/Invoke wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
 
 ### Install 
